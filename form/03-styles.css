@@ -830,7 +830,7 @@ fieldset {
   padding: 0 0 2rem;
 }
 
-lable {
+label {
   cursor: pointer;
   display: block;
   white-space: nowrap;
